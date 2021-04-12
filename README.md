@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Pranshul Aggarwal!](https://kunal-kushwaha.github.io) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Pranshul Aggarwal!
 
 <a href="https://www.linkedin.com/in/pranshul-aggarwal-7012b713a/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -36,7 +36,7 @@
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr4nshul&layout=compact&theme=dark" alt="aniket sindhu" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr4nshul&layout=compact&theme=dark" alt="Pranshul Aggarwal" /></p>
 
 <p align="center">
 <a href="https://github.com/pr4nshul">
