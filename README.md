@@ -21,6 +21,7 @@
 ### My Experiences 🙌
 - TA at [Code For Cause](https://codeforcause.org/) for Python & Machine Learning.
 - Student mentor at [Major League Hacking](https://mlh.io/) summer league.
+- Machine Learning intern at Anemoi Technologies.
 
 
 [![GitHub Pranshul Aggarwal](https://img.shields.io/github/followers/pr4nshul?label=follow&style=social)](https://github.com/pr4nshul)
